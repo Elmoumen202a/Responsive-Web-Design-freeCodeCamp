@@ -21,6 +21,7 @@ Here you can find the titles of projects I have created to accomplish this learn
 3. [Product Landing Page]()
 4. [Technical Documentation Page](https://codepen.io/you202a/pen/MWOeOEZ)
 5. [Personal Portfolio]()
+   
    ![freeCodeCamp Responsive Web Design Certification](img/info.PNG)
 
 Thank you, freeCodeCamp, for providing a platform for continuous learning and skill development!
